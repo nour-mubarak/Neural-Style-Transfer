@@ -280,7 +280,7 @@ def neural_style_transfer(config):
     return dump_path
 
 
-PATH = "/home/nour/Coding-projects/GANs dark skin/challenge_data/jpeg/train"
+PATH = "/home/nour/Coding-projects/GANs dark skin/challenge_data"
 CONTENT_IMAGE = "/home/nour/Coding-projects/GANs dark skin/challenge_data/jpeg/train/ISIC_0015719.jpg"
 STYLE_IMAGE = "/home/nour/Coding-projects/GANs dark skin/challenge_data/jpeg/train/ISIC_0052212.jpg"
 
