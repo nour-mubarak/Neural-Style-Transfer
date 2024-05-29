@@ -281,8 +281,8 @@ def neural_style_transfer(config):
 
 
 PATH = "/home/nour/Coding-projects/GANs dark skin/challenge_data"
-CONTENT_IMAGE = "/home/nour/Coding-projects/GANs dark skin/challenge_data/jpeg/train/ISIC_0015719.jpg"
-STYLE_IMAGE = "/home/nour/Coding-projects/GANs dark skin/challenge_data/jpeg/train/ISIC_0052212.jpg"
+CONTENT_IMAGE = "/home/nour/Coding-projects/GANs dark skin/challenge_data/jpeg/train/ISIC_0074311.jpg"
+STYLE_IMAGE = "/home/nour/Coding-projects/GANs dark skin/challenge_data/jpeg/train/ISIC_0075914.jpg"
 
 default_resource_dir = os.path.join(PATH, "data")
 content_images_dir = os.path.join(default_resource_dir, "content-images")
